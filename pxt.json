@@ -1,10 +1,11 @@
 {
-    "name": "AI",
+    "name": "Compass",
     "description": "",
     "dependencies": {
         "core": "*",
         "servo": "*",
-        "radio-broadcast": "*"
+        "radio-broadcast": "*",
+        "radio": "*"
     },
     "files": [
         "main.blocks",
